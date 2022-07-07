@@ -2,6 +2,8 @@
 title: My first post using hexo framework for blog
 date: 2022-07-04 22:18:15
 tags: [Hexo, tutorial, framework]
+categories:
+    - [setup]
 description: First post, setting up Hexo
 ---
 

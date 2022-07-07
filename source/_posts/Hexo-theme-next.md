@@ -1,8 +1,9 @@
 ---
 title: 'Hexo theme: NexT'
-tags:
-  - Hexo
-  - tutorial
+tags: [Hexo, tutorial]
+categories:
+    - [configuration]
+    - [setup]
 description: Setting up NexT theme for Hexo
 mathjax: true
 date: 2022-07-07 12:41:08

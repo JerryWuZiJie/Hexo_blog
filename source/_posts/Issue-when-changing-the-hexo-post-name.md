@@ -2,6 +2,8 @@
 title: Issue when changing the hexo post name
 date: 2022-07-07 14:50:55
 tags: [Hexo, issue]
+categories:
+    - [issue]
 description: Renaming issue
 ---
 

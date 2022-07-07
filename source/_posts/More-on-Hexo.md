@@ -2,6 +2,8 @@
 title: More on Hexo
 date: 2022-07-05 12:11:30
 tags: [Hexo, tutorial]
+categories:
+    - [configuration]
 description: Hexo usage
 ---
 
