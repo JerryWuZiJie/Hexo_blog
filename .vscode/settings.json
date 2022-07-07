@@ -1,0 +1,29 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/_posts/my-first-post-using-hexo-framework-for-blog.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/_posts/More-on-Hexo.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/about/index.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/_posts/Hexo-theme-next.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/_posts/temp.md"
+        }
+    ]
+}
