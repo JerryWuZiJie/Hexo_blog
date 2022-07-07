@@ -3,7 +3,7 @@
         {
             "language": "markdown",
             "scheme": "file",
-            "pattern": "source/_posts/my-first-post-using-hexo-framework-for-blog.md"
+            "pattern": "source/_posts/My-first-post-using-hexo-framework-for-blog.md"
         },
         {
             "language": "markdown",
@@ -24,6 +24,11 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "source/_posts/temp.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "source/_posts/Issue-when-changing-the-hexo-post-name.md"
         }
     ]
 }
