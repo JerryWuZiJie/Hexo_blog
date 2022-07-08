@@ -5,6 +5,7 @@ tags: [Java, tutorial]
 categories:
     - [setup]
     - [guide]
+    - [programming, java]
 description: Setup JDK8
 ---
 
@@ -16,7 +17,7 @@ It's been a while since I set up Java last time (around 2015). After that, I use
 
 The reason that I don't use the latest JDK (Java Development Kit) is that JDK8 is the most popular among enterprises.
 
-Relationship between JVM, JRE, JDK: JDK includes JRE include JVM
+Relationship between JVM, JRE, JDK: JDK includes JRE includes JVM
 
 1. Download [JDK8](https://www.oracle.com/java/technologies/downloads/)
 2. configure Environment Variables*
