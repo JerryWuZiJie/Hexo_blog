@@ -1,6 +1,8 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+tags: [Java]
+categories:
+    - [programming, java]
 description:
 ---
