@@ -4,6 +4,7 @@ date: 2022-07-04 22:18:15
 tags: [Hexo, tutorial, framework]
 categories:
     - [setup]
+    - [guide]
 description: First post, setting up Hexo
 ---
 
