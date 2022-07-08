@@ -3,32 +3,7 @@
         {
             "language": "markdown",
             "scheme": "file",
-            "pattern": "source/_posts/My-first-post-using-hexo-framework-for-blog.md"
-        },
-        {
-            "language": "markdown",
-            "scheme": "file",
-            "pattern": "source/_posts/More-on-Hexo.md"
-        },
-        {
-            "language": "markdown",
-            "scheme": "file",
-            "pattern": "source/about/index.md"
-        },
-        {
-            "language": "markdown",
-            "scheme": "file",
-            "pattern": "source/_posts/Hexo-theme-next.md"
-        },
-        {
-            "language": "markdown",
-            "scheme": "file",
-            "pattern": "source/_posts/temp.md"
-        },
-        {
-            "language": "markdown",
-            "scheme": "file",
-            "pattern": "source/_posts/Issue-when-changing-the-hexo-post-name.md"
+            "pattern": "source/**/*.md"
         }
     ]
 }
