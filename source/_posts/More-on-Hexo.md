@@ -33,7 +33,7 @@ One can use the command `hexo n page`*`page_name`* to create a new page. It will
 
 #### scaffolds
 
-The scaffolds folder controls the default layout of the new file. You can create more Markdown files with a different name and use `hexo n`*`scaffold_name`* to create a new file with that type in the `source/_posts`` folder.
+The scaffolds folder controls the default layout of the new file. You can create more Markdown files with a different name and use `hexo n` *`scaffold_name`* to create a new file with that type in the `source/_posts`` folder.
 
 ### front matter
 
