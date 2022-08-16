@@ -5,7 +5,7 @@ tags:
   - IDE
 categories:
   - - programming
-    - java
+    - Java
   - guide
   - setup
 date: 2022-07-08 15:11:15

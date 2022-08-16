@@ -5,7 +5,7 @@ tags: [Java, tutorial]
 categories:
     - [setup]
     - [guide]
-    - [programming, java]
+    - [programming, Java]
 description: Setup JDK8
 ---
 

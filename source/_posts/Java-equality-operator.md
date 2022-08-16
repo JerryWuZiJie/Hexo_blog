@@ -6,7 +6,7 @@ tags:
   - Java
   - issue
 categories:
-  - [programming, java]
+  - [programming, Java]
   - [issue]
 ---
 

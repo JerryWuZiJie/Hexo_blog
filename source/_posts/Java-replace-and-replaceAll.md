@@ -4,7 +4,7 @@ tags:
   - Java
 categories:
   - - programming
-    - java
+    - Java
 description: Difference between replace and replaceAll
 date: 2022-07-20 20:34:42
 ---

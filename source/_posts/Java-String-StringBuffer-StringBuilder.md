@@ -4,7 +4,7 @@ tags:
   - Java
 categories:
   - - programming
-    - java
+    - Java
 description: Difference between the three
 date: 2022-07-20 20:40:47
 ---

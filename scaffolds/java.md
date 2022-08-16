@@ -4,6 +4,6 @@ date: {{ date }}
 tags:
     - Java
 categories:
-    - [programming, java]
+    - [programming, Java]
 description: No Description
 ---

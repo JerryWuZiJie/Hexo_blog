@@ -3,7 +3,7 @@ title: Java Hello World!
 date: 2022-07-08 14:29:26
 tags: [Java, demo]
 categories:
-    - [programming, java]
+    - [programming, Java]
 description: Hello World in Java
 ---
 
