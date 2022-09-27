@@ -48,7 +48,7 @@ In the following, I will briefly talk about how to set up Hexo and deploy it on 
 
 - `hexo n "title"`: create a new post
 - `hexo s`: start a server in a local host
-- `hexo c`: clean the static files
+- `hexo cl`: clean the static files
 - `hexo g`: generate the static files
 - `hexo d`: deploy to GitHub
 
