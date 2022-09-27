@@ -25,6 +25,8 @@ The issue is that the DNS is not set up correctly and GitHub Copilot is trying t
 140.82.112.5 api.github.com
 ```
 
+Another cause of this problem is for those who have installed **Watt Toolkit**, it modifies the hosts. So just delete those lines in the hosts file and it should work.
+
 \# Extra tip: GitHub Copilot is free for verified students
 
 ## Reference
